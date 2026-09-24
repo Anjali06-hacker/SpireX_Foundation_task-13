@@ -4,42 +4,42 @@ const products = [
         id: 1,
         name: "Wireless Headphones",
         price: 1200,
-        image: "https://via.placeholder.com/300x200?text=Headphones",
+        image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
         description: "Comfortable wireless headphones with clear sound."
     },
     {
         id: 2,
         name: "Smart Watch",
         price: 1800,
-        image: "https://via.placeholder.com/300x200?text=Smart+Watch",
+        image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
         description: "A stylish smartwatch for everyday use."
     },
     {
         id: 3,
         name: "Wireless Mouse",
         price: 500,
-        image: "https://via.placeholder.com/300x200?text=Mouse",
+        image: "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80",
         description: "Smooth and comfortable wireless mouse."
     },
     {
         id: 4,
         name: "Keyboard",
         price: 800,
-        image: "https://via.placeholder.com/300x200?text=Keyboard",
+        image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=300&q=80",
         description: "Comfortable keyboard for work and study."
     },
     {
         id: 5,
         name: "Bluetooth Speaker",
         price: 1500,
-        image: "https://via.placeholder.com/300x200?text=Speaker",
+        image: "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=300&q=80",
         description: "Portable speaker with good sound quality."
     },
     {
         id: 6,
         name: "USB Cable",
         price: 300,
-        image: "https://via.placeholder.com/300x200?text=USB+Cable",
+        image: "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=300&q=80",
         description: "Durable USB cable for charging and data transfer."
     }
 ];
